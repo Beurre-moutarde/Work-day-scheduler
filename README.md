@@ -32,6 +32,7 @@ THEN the saved events persist
 
 The following image shows the application functionality: 
 
+![Screen Shot 2022-12-22 at 8 54 14 pm (2)](https://user-images.githubusercontent.com/116129687/209108049-567dd9d9-7a10-4206-8f2a-d030fac71a55.png)
 
 ## Licence, Review
 

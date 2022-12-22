@@ -2,7 +2,7 @@
 
 Deployed to GitHib Pages at: https://beurre-moutarde.github.io/Work-day-scheduler/
 
-Created a Quiz. This program can be used in your web browser and feature HTML and CSS run by JavaScript code. It includes a clean and responsive user interface ensuring it's adaptation to multiple screen sizes.
+A daily planner is a tool used to create and manage a schedule for the day. When the planner is opened, the current day is displayed at the top of the calendar. The planner includes time blocks for standard business hours, which are color coded to indicate whether they are in the past, present, or future. Events can be entered into the time blocks by clicking on them and entering text, which is then saved in local storage. When the page is refreshed, the saved events persist and are displayed in the appropriate time blocks.
 
 ## User Story
 
